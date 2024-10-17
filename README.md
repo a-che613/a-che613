@@ -40,8 +40,9 @@
         <img src="https://raw.githubusercontent.com/a-che613/a-che613/main/imgs/social/light/youtube.png" width="42" height="42">
     </picture>
 </a> -->
-&nbsp;&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;&nbsp; -->
 
+<div style="border: 1px solid red;">
 <a href="https://github.com/a-che613/github-readme-stats">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=a-che613&hide_title=true&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dark&bg_color=0e1116&title_color=ffffff&text_color=ffffff&icon_color=1f6feb">
@@ -54,7 +55,9 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=a-che613&hide_border=true&theme=dark&background=0e1116">
         <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=a-che613&hide_border=true">
     </picture>
-</a>
+</a></div>
+
+
 
 <a href="https://github.com/a-che613/github-readme-activity-graph">
     <picture>
