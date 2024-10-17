@@ -5,7 +5,7 @@
     </picture>
 </a>
 
-<!-- &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-che613/a-che613/main/imgs/social/dark/stackoverflow.png">
@@ -39,8 +39,8 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-che613/a-che613/main/imgs/social/dark/youtube.png">
         <img src="https://raw.githubusercontent.com/a-che613/a-che613/main/imgs/social/light/youtube.png" width="42" height="42">
     </picture>
-</a> -->
-<!-- &nbsp;&nbsp;&nbsp; -->
+</a>
+<!-- &nbsp;&nbsp;&nbsp;
 
 
 <a href="https://github.com/a-che613/github-readme-stats">
@@ -60,9 +60,15 @@
 <a href="https://github.com/a-che613/github-readme-activity-graph">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=a-che613&theme=github-dark&area=true&hide_border=true&custom_title=Past%20Months%20Activity&color=ffffff&bg_color=0e1116">
-        <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=a-che613&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=a-che613&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
+
+<div align="center">
+    <a href="https://www.devmirza.ml">
+        <img src="https://github.com/a-che613/a-che613/blob/output/github-snake-dark.svg" alt="snake" />
+    </a>
+</div>
 
 <h3 align="center">
     <a href="https://www.githubtrends.io/wrapped/a-che613">
