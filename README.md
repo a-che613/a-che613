@@ -40,7 +40,7 @@
         <img src="https://raw.githubusercontent.com/a-che613/a-che613/main/imgs/social/light/youtube.png" width="42" height="42">
     </picture>
 </a>
-<!-- &nbsp;&nbsp;&nbsp;
+ &nbsp;&nbsp;&nbsp;
 
 
 <a href="https://github.com/a-che613/github-readme-stats">
@@ -63,12 +63,6 @@
         <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=a-che613&theme=github-light&area=true&hide_border=true&custom_title=Past%20Months%20Activity">
     </picture>
 </a>
-
-<div align="center">
-    <a href="https://www.devmirza.ml">
-        <img src="https://github.com/a-che613/a-che613/blob/output/github-snake-dark.svg" alt="snake" />
-    </a>
-</div>
 
 <h3 align="center">
     <a href="https://www.githubtrends.io/wrapped/a-che613">
