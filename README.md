@@ -5,7 +5,7 @@
     </picture>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/1544937/jacob-philpott?tab=profile">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-che613/a-che613/main/imgs/social/dark/stackoverflow.png">
@@ -39,7 +39,7 @@
         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/a-che613/a-che613/main/imgs/social/dark/youtube.png">
         <img src="https://raw.githubusercontent.com/a-che613/a-che613/main/imgs/social/light/youtube.png" width="42" height="42">
     </picture>
-</a>
+</a> -->
 &nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/a-che613/github-readme-stats">
